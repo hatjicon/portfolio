@@ -4,7 +4,7 @@ A collection of projects at the intersection of AI, product management, and soft
 
 ## 🐻 Don't Get Eaten by a Bear
 
-An iOS wildlife-awareness app that helps people explore with more context about wildlife activity nearby. It combines community sightings with location-based information.
+A Mobile wildlife-awareness app that helps people explore with more context about wildlife activity nearby. It combines community sightings with location-based information.
 
 - **Platform:** iOS
 - **Status:** In development / TestFlight
