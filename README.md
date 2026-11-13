@@ -17,6 +17,7 @@ Reusable AI agent skills for product management and strategy.
 
 - **Customer Pain Point Analyzer** — Extract evidence-backed customer pain points from interview transcripts.
 - **Strategic Document Builder** — Create structured, evidence-based product strategy documents.
+- **Competitive Intelligence Analyzer** - Researches any competitors in any industry, tracking product developments, official content, customer sentiment, and strategic implications.
 
 Explore the [Agent Skills repository](https://github.com/hatjicon/agent-skills).
 
